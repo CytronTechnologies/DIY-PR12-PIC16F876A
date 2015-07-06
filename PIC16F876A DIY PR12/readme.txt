@@ -1,0 +1,1 @@
+Display time, day, date, month and year by using DS 1307 real time clock chip and LCD display.The time and calender can be changeed by pressing push button.Compatible with MPLAB IDE with HITECH C compiler MPLABX with HITECH C compiler v9.83/v9.82/9.80 and XC8 compiler for 9.80, you have to change R to Rw
